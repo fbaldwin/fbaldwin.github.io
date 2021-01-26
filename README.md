@@ -1,2 +1,2 @@
-# FredBaldwin.github.io
+# fbaldwin.github.io
 This will be where i host my deployed webpages
